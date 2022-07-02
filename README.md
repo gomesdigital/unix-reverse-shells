@@ -17,7 +17,7 @@ This repository is to document my findings on:
 Creating your first reverse shell
 is astonishingly simple.
 
-1. Spawn a new shell on your machine:
+1. Spawn a new shell on the target machine:
       ```sh
       bash
       ```
